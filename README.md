@@ -55,3 +55,20 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 ## Programação Básica (02:59:23)
 ### Aula 10
 - Introdução a variáveis
+### Aula 11
+- Tipos Primitivos
+    - Tipos Inteiros
+        - byte (8 bits)
+        - short (16 bits)
+        - int (32 bits)
+        - long (64 bits)
+        - char
+    - Tipos Ponto Flutuante
+        - float (32 bits)
+        - double (64 bits)
+    - Tipo Char
+    - Tipo Boolean
+        - true
+        - false
+    - Literais
+
