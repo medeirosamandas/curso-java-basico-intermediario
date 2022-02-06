@@ -71,4 +71,6 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         - true
         - false
     - Literais
+### Aula 12
+- Lendo dados do teclado usando a classe Scanner
 
