@@ -108,3 +108,5 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 ## Controles, Decisões e Loops (04:16:12)
 ### Aula 14
 - Condicionais if/else
+### Aula 15
+- Condicional Switch-Case

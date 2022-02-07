@@ -34,7 +34,7 @@ public class Exercicio13 {
         System.out.println("INSS: " + inss);
         System.out.println("Sindicato: " + sindicato);
         System.out.println("IR: " + ir);
-        System.out.println("Total descontos: " + (inss + sindicato + ir);
+        System.out.println("Total descontos: " + (inss + sindicato + ir));
         System.out.println("Salário líquido: " + liquido);
 	}
 
