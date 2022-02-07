@@ -110,3 +110,6 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 - Condicionais if/else
 ### Aula 15
 - Condicional Switch-Case
+### Aula 16
+- Loop while
+- Loop do-while
