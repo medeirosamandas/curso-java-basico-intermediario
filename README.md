@@ -74,3 +74,33 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 ### Aula 12
 - Lendo dados do teclado usando a classe Scanner
 
+### Aula 13
+- Operadores
+    - Operadores Aritméticos
+        - adição \+
+        - subtração \-
+        - divisão \/
+        - multiplicação \*
+        - módulo \%
+        - incremento \++
+        - decremento \--
+    - Operadores Relacionais
+        - igual a ==
+        - diferente de !=
+        - maior que \>
+        - menor que <
+        - maior ou igual que >=
+        - menor ou igual que <=
+    - Operadores Lógicos
+        - AND &
+        - OR |
+        - XOR ^
+        - OR curto circuito ||
+        - AND curto circuito &&
+        - NOT !
+    - Operadores de Assignment
+        - +=
+        - -=
+        - *=
+        - /=
+    - Procedência
