@@ -115,3 +115,6 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 - Loop do-while
 ### Aula 17
 - Loop for
+### Aula 18
+- Break
+- Continue
