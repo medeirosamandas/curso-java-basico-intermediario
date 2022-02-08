@@ -7,6 +7,8 @@ public class BreakEContinue {
 	public static void main(String[] args) {
 		
 		// utilização do break comum, para sair do loop
+		// quando utilizado o break, ele sai do loop assim que a condição for satisfeita a primeira vez, sem o break ele faz o loop até o final da condição apresentada no loop for
+
 		
 		/*Scanner sc = new Scanner(System.in);
 		
@@ -22,7 +24,6 @@ public class BreakEContinue {
 			if (i % 7 == 0) {
 				System.out.println("O valor de i é: " + i);
 				break;
-				// quando utilizado o break, ele sai do loop assim que a condição for satisfeita a primeira vez, sem o break ele faz o loop até o final da condição apresentada no loop for
 			}
 		}*/
 		
@@ -54,6 +55,7 @@ public class BreakEContinue {
 		}*/
 		
 		// continue
+		// o continue vê a condição, se for satisfeita, ela já incrementa +1 e não passa pelo código a ser feito dentro do for.
 
 		Scanner sc = new Scanner(System.in);
 		
