@@ -106,6 +106,7 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         - *=
         - /=
     - Procedência
+- [Exercícios aula 13](https://pt2.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13)
 - [Correção exercícios aula 13](https://www.youtube.com/watch?v=pfI20o_lyRA)
 
 ## Controles, Decisões e Loops (04:16:12)
@@ -113,12 +114,14 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 - Condicionais if/else
 ### [Aula 15](https://www.youtube.com/watch?v=JTLgFZyBUN4)
 - Condicional Switch-Case
+- [Exercícios aula 15](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-14-15)
 - [Correção exercícios aula 15](https://www.youtube.com/watch?v=-BpAWP6T6a8)
 ### [Aula 16](https://www.youtube.com/watch?v=9_12LPVMJYc)
 - Loop while
 - Loop do-while
 ### [Aula 17](https://www.youtube.com/watch?v=HrfWrbmFUKQ)
 - Loop for
+- [Exercícios aula 17](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-16-17)
 - [Correção exercícios aula 15 1/5](https://www.youtube.com/watch?v=7ccdc5Vkf7Q)
 - [Correção exercícios aula 15 2/5](https://www.youtube.com/watch?v=ATEpiDIqDx4)
 - [Correção exercícios aula 15 3/5](https://www.youtube.com/watch?v=ltG7MEnTx8M)
@@ -127,3 +130,13 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 ### [Aula 18](https://www.youtube.com/watch?v=rU-DCmwAtXE)
 - Break
 - Continue
+
+## Vetores e Matrizes (01:44:58)
+### [Aula 19](https://www.youtube.com/watch?v=HxRb5KLofcI)
+- Vetores/Arrays
+- [Exercícios aula 19](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-19)
+- [Correção exercícios aula 19 1/5](https://www.youtube.com/watch?v=UN6ZJBSTR0M)
+- [Correção exercícios aula 19 2/5](https://www.youtube.com/watch?v=o4S35dlr4_E)
+- [Correção exercícios aula 19 3/5](https://www.youtube.com/watch?v=eAuxsgm3pl4)
+- [Correção exercícios aula 19 4/5](https://www.youtube.com/watch?v=NZw0BbGxCmM)
+- [Correção exercícios aula 19 5/5](https://www.youtube.com/watch?v=64Bj0RMWkiU)
