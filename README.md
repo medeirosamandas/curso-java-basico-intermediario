@@ -1,4 +1,4 @@
-# Curso Java Básico
+# Curso Java Básico <img alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 
 - [Código Fonte do Curso](https://github.com/loiane/curso-java-basico)
@@ -6,33 +6,35 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
 
 # Conteúdos
 ## Introdução (01:48:01)
-### Aula 01
+### [Aula 01](https://www.youtube.com/watch?v=LnORjqZUMIQ)
 - Intrudução e dicas
-### Aula 02
+### [Aula 02](https://www.youtube.com/watch?v=ddhH97IPrFY)
 - Instalação do Java no Windows
 
-### Aula 03
+### [Aula 03](https://www.youtube.com/watch?v=BTNp4P12DIs)
 - Instalação do Java no Ubuntu
 
-### Aula 04
+### [Aula 04](https://www.youtube.com/watch?v=xQEauKE4NTw)
 - Instalação do Java no Mac OS
 ## Começando com Java (02:31:03)
-### Aula 05
+### [Aula 05](https://www.youtube.com/watch?v=mu2ti43cgwc)
 - Primeiro programa em Java (sem utilização de IDE)
+- [Correção exercícios aula 05](https://www.youtube.com/watch?v=3rZNefsMmKs)
 
-### Aula 06
+### [Aula 06](https://www.youtube.com/watch?v=dhGPGv7XCM8)
 - Passando argumentos para o programa (sem utilização de IDE)
+- [Correção exercíos aula 05](https://www.youtube.com/watch?v=Ebvl0BlnD-U)
 
-### Aula 07
+### [Aula 07](https://www.youtube.com/watch?v=NoEoOaTSFMo)
 - Entendendo os erros (sem utilização de IDE)
     - Erros de Sintaxe
     - Erros de Semântica
     - Erros em Tempo de Execução
-### Aula 08
+### [Aula 08](https://www.youtube.com/watch?v=74QEhBpzixs)
 - Instalando uma IDE
     - Eclipse
     - Netbeans
-### Aula 09
+### [Aula 09](https://www.youtube.com/watch?v=KUUrrIX6wGo)
 - Introdução à Orientação a Objetos
     - Vantagens
         - Reuso do código
@@ -53,9 +55,9 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         Ex.: com.loiane.cursojava.aula09
 
 ## Programação Básica (02:59:23)
-### Aula 10
+### [Aula 10](https://www.youtube.com/watch?v=ELBqT_rueAQ)
 - Introdução a variáveis
-### Aula 11
+### [Aula 11](https://www.youtube.com/watch?v=aqiB58NpKLw)
 - Tipos Primitivos
     - Tipos Inteiros
         - byte (8 bits)
@@ -71,10 +73,10 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         - true
         - false
     - Literais
-### Aula 12
+### [Aula 12](https://www.youtube.com/watch?v=Z6Y8zupCKfk)
 - Lendo dados do teclado usando a classe Scanner
 
-### Aula 13
+### [Aula 13](https://www.youtube.com/watch?v=199tKAE6sxo)
 - Operadores
     - Operadores Aritméticos
         - adição \+
@@ -104,17 +106,24 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         - *=
         - /=
     - Procedência
+- [Correção exercícios aula 13](https://www.youtube.com/watch?v=pfI20o_lyRA)
 
 ## Controles, Decisões e Loops (04:16:12)
-### Aula 14
+### [Aula 14](https://www.youtube.com/watch?v=KJYSXTYgL_o)
 - Condicionais if/else
-### Aula 15
+### [Aula 15](https://www.youtube.com/watch?v=JTLgFZyBUN4)
 - Condicional Switch-Case
-### Aula 16
+- [Correção exercícios aula 15](https://www.youtube.com/watch?v=-BpAWP6T6a8)
+### [Aula 16](https://www.youtube.com/watch?v=9_12LPVMJYc)
 - Loop while
 - Loop do-while
-### Aula 17
+### [Aula 17](https://www.youtube.com/watch?v=HrfWrbmFUKQ)
 - Loop for
-### Aula 18
+- [Correção exercícios aula 15 1/5](https://www.youtube.com/watch?v=7ccdc5Vkf7Q)
+- [Correção exercícios aula 15 2/5](https://www.youtube.com/watch?v=ATEpiDIqDx4)
+- [Correção exercícios aula 15 3/5](https://www.youtube.com/watch?v=ltG7MEnTx8M)
+- [Correção exercícios aula 15 4/5](https://www.youtube.com/watch?v=bfkocfgM7_U)
+- [Correção exercícios aula 15 5/5](https://www.youtube.com/watch?v=coiYSnquB7g)
+### [Aula 18](https://www.youtube.com/watch?v=rU-DCmwAtXE)
 - Break
 - Continue
