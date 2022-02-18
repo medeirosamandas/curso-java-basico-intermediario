@@ -1,8 +1,9 @@
 # Curso Java Básico <img alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
+Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane)
 
 - [Código Fonte do Curso](https://github.com/loiane/curso-java-basico)
 - [Playlist do Curso no Youtube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- [loiane.training](http://loiane.training)
 
 # Conteúdos
 ## Introdução (01:48:01)
@@ -157,3 +158,21 @@ Curso de Java básico ministrado pela [@Loiane](https://github.com/loiane)
         - [Correção exercícios aula 20 2/4](https://www.youtube.com/watch?v=lHKmF-kOq90)
         - [Correção exercícios aula 20 3/4](https://www.youtube.com/watch?v=zaD6mQj11ew)
         - [Correção exercícios aula 20 4/4](https://www.youtube.com/watch?v=9h9OfzW9u9M)
+
+## For each e Debug de aplicações Java (00:51:19)
+
+### [Aula 21](https://youtu.be/2ndBbnsqBXQ)
+- Loop For Each
+
+### [Aula 22](https://youtu.be/kbzzlKfjR8k)
+- Debug no Eclipse
+
+### [Aula 23](https://youtu.be/qlMJytCpKJg)
+- Debug no Netbeans
+
+## Orientação à Objetos e Java (04:07:34)
+### [Aula 24](https://youtu.be/Gq1BS63pkRA)
+- Conceitos classe, objetos, atributos
+    - [Exercícios aula 24](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24)
+    - [Correção exercícios aula 24](https://www.youtube.com/watch?v=0f5wWNU_nns)
+
