@@ -185,3 +185,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 
 ### [Aula 27](https://www.youtube.com/watch?v=ffvsI9dnDiY)
 - Classes e métodos com parâmetro
+    - [Exercícios aulas 25 a 27](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-25-a-27)
+    - [Correção exercícios aula 27 parte 1](https://www.youtube.com/watch?v=DTewirzLmb4)
+    - [Correção exercícios aula 27 parte 2](https://www.youtube.com/watch?v=SC7YLvc6Sto)
+    - [Correção exercícios aula 27 parte 3](https://www.youtube.com/watch?v=eYM24XWAxSs)
+    - [Correção exercícios aula 27 parte 4](https://www.youtube.com/watch?v=ZILUIBmGAmk)
