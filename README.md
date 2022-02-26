@@ -177,3 +177,6 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Exercícios aula 24](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24)
     - [Correção exercícios aula 24](https://www.youtube.com/watch?v=0f5wWNU_nns)
 
+### [Aula 25](https://www.youtube.com/watch?v=-t_c6F_Uoeg)
+- Classes e métodos simples
+
