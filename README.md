@@ -183,3 +183,5 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ### [Aula 26](https://www.youtube.com/watch?v=_3fal2H8Agw)
 - Classes e métodos com retorno
 
+### [Aula 27](https://www.youtube.com/watch?v=ffvsI9dnDiY)
+- Classes e métodos com parâmetro
