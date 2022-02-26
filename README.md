@@ -173,6 +173,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ## Orientação à Objetos e Java (04:07:34)
 ### [Aula 24](https://youtu.be/Gq1BS63pkRA)
 - Conceitos classe, objetos, atributos
+    - Uma classe é uma definição de uma entidade de um objeto, onde seus atributos são suas características.
     - [Exercícios aula 24](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24)
     - [Correção exercícios aula 24](https://www.youtube.com/watch?v=0f5wWNU_nns)
 
