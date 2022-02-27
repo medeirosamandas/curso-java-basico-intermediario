@@ -190,3 +190,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Correção exercícios aula 27 parte 2](https://www.youtube.com/watch?v=SC7YLvc6Sto)
     - [Correção exercícios aula 27 parte 3](https://www.youtube.com/watch?v=eYM24XWAxSs)
     - [Correção exercícios aula 27 parte 4](https://www.youtube.com/watch?v=ZILUIBmGAmk)
+
+### [Aula 28](https://www.youtube.com/watch?v=aRQHjfYBpM8)
+- Pacotes e import
+    - Convenção de pacotes Java
+        - Sempre em lowercase
+        - Domínio da empresa ao contrário + nome do projeto + (opcional - evitar colisão)
