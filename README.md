@@ -203,3 +203,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 
 ### [Aula 30](https://www.youtube.com/watch?v=RLzR--Pwvcs)
 - Palavra chave this
+
+### [Aula 31](https://www.youtube.com/watch?v=6oD7TE90e-M)
+- Modificadores de acesso
+    - default: quando não utilizamos nenhum modificador, a classe só fica visível dentro do mesmo pacote
+    - public: todo mundo pode ver
+    - private: somente a própria classe pode ver
