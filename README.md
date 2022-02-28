@@ -209,3 +209,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - default: quando não utilizamos nenhum modificador, a classe só fica visível dentro do mesmo pacote
     - public: todo mundo pode ver
     - private: somente a própria classe pode ver
+
+### [Aula 32](https://www.youtube.com/watch?v=vKif9IxYTLY)
+- Encapsulamento
+    - métodos getters e setters
