@@ -213,3 +213,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ### [Aula 32](https://www.youtube.com/watch?v=vKif9IxYTLY)
 - Encapsulamento
     - métodos getters e setters
+
+### [Aula 33](https://www.youtube.com/watch?v=ZpssJov_5_A)
+- Sobrecarga (overload ou sobreposição) de métodos
+    - é necessário declarar um segundo ou terceiro método com o mesmo nome. A asinatura do método tem que ser diferente, ou seja, um tipo de retorno diferente ou quantidade de parâmetros diferente
+- Sobrecargas (overload ou sobreposição) de construtores
+    - foi mencionado e aplicado nas aulas 29 e 30, com a utilização de novos construtores com a quantidade desejada de atributos (construtores com 0, 1, 2, 3, ..., atributos)
