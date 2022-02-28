@@ -238,3 +238,6 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Exercícios aula 35](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-35)
     - [Correção exercícios aula 35 parte 1](https://www.youtube.com/watch?v=2YyJ3CZBlAI)
     - [Correção exercícios aula 35 parte 2](https://www.youtube.com/watch?v=wl1gIU5y-II)
+
+### [Aula 36](https://www.youtube.com/watch?v=edXQiFAdH2c)
+- Relacionamento entre classes
