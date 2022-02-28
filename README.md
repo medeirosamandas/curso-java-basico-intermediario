@@ -228,3 +228,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ### [Aula 34](https://www.youtube.com/watch?v=ZpssJov_5_A)
 - Variáveis e métodos estáticos (modificador static)
     - não é necessário instanciar uma classe para utilizar os métodos desta classe
+    - [Exercícios aula 34](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-34)
+    - [Correção exercícios aula 34 parte 1](https://www.youtube.com/watch?v=oTy5jP7CK9c)
+    - [Correção exercícios aula 34 parte 2](https://www.youtube.com/watch?v=8GGSXaUj2pk)
+    - [Correção exercícios aula 34 parte 3](https://www.youtube.com/watch?v=A8caJRDWWVQ)
