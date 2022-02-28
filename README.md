@@ -197,6 +197,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
         - Sempre em lowercase
         - Domínio da empresa ao contrário + nome do projeto + (opcional - evitar colisão)
         - Pastas para organizar
-        
+
 ### [Aula 29](https://www.youtube.com/watch?v=uJKcKzro9pU)
 - Construtores
+
+### [Aula 30](https://www.youtube.com/watch?v=RLzR--Pwvcs)
+- Palavra chave this
