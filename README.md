@@ -219,3 +219,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - é necessário declarar um segundo ou terceiro método com o mesmo nome. A asinatura do método tem que ser diferente, ou seja, um tipo de retorno diferente ou quantidade de parâmetros diferente
 - Sobrecargas (overload ou sobreposição) de construtores
     - foi mencionado e aplicado nas aulas 29 e 30, com a utilização de novos construtores com a quantidade desejada de atributos (construtores com 0, 1, 2, 3, ..., atributos)
+     - [Exercícios aulas 28 a 33](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-28-a-33)
+    - [Correção exercícios aula 33 parte 1](https://www.youtube.com/watch?v=eFYqJHZw2G8)
+    - [Correção exercícios aula 33 parte 2](https://www.youtube.com/watch?v=LNTGVzYVtMk)
+    - [Correção exercícios aula 33 parte 3](https://www.youtube.com/watch?v=iGyM6wL_w50)
+    - [Correção exercícios aula 33 parte 4](https://www.youtube.com/watch?v=cv8-GNYNOOo)
