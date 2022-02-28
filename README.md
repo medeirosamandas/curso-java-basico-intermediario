@@ -235,3 +235,6 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 
 ### [Aula 35](https://www.youtube.com/watch?v=X56_FjmbmE4)
 - Recursividade
+    - [Exercícios aula 35](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-35)
+    - [Correção exercícios aula 35 parte 1](https://www.youtube.com/watch?v=2YyJ3CZBlAI)
+    - [Correção exercícios aula 35 parte 2](https://www.youtube.com/watch?v=wl1gIU5y-II)
