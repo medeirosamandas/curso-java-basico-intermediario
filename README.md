@@ -251,3 +251,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 
 ### [Aula 38](https://www.youtube.com/watch?v=aRPal-8z4RQ)
 - Palavra chave super
+
+### [Aula 39](https://www.youtube.com/watch?v=xjxDh9xbfLM)
+- Modificadores de acesso + protected
+    - default -> é visível nos pacotes iguais ao do atributo e na própria classe
+    - public -> é visível em todos os pacotes e todas as classes
+    - private -> é visível apenas dentro da própria classe
+    - protected -> é visível na própria classe, nas outras classes do pacote e na subclasse
