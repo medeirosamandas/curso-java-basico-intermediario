@@ -266,3 +266,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Classes abstratas
     - quando é adicionado 'abstract' a uma classe, ela não poderá ser instanciada, apenas será instanciada as suas descendentes.
     - ao adicionar 'absctract' a um método, todos as subclasses deverão obrigatoriamente implementar este método.
+
+### [Aula 42](https://www.youtube.com/watch?v=858FJ6DQRVg)
+- Palavra chave final
+    - Faz com que a classe não possa ser extendida
+    - Ao ser usado em variável, a torna imutável
