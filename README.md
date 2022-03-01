@@ -6,7 +6,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - [loiane.training](http://loiane.training)
 
 # Conteúdos
-## Introdução (01:48:01)
+<details>
+<summary>Introdução (01:48:01)</summary>
+
 ### [Aula 01](https://www.youtube.com/watch?v=LnORjqZUMIQ)
 - Intrudução e dicas
 ### [Aula 02](https://www.youtube.com/watch?v=ddhH97IPrFY)
@@ -55,7 +57,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
         - Convenção: domínio + projeto + pasta
         Ex.: com.loiane.cursojava.aula09
 
-## Programação Básica (02:59:23)
+</details>
+<details>
+<summary>Programação Básica (02:59:23)</summary>
+
 ### [Aula 10](https://www.youtube.com/watch?v=ELBqT_rueAQ)
 - Introdução a variáveis
 ### [Aula 11](https://www.youtube.com/watch?v=aqiB58NpKLw)
@@ -110,7 +115,11 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Exercícios aula 13](https://pt2.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13)
         - [Correção exercícios aula 13](https://www.youtube.com/watch?v=pfI20o_lyRA)
 
-## Controles, Decisões e Loops (04:16:12)
+</details>
+<details>
+<summary>Controles, Decisões e Loops (04:16:12)</summary>
+
+
 ### [Aula 14](https://www.youtube.com/watch?v=KJYSXTYgL_o)
 - Condicionais if/else
 ### [Aula 15](https://www.youtube.com/watch?v=JTLgFZyBUN4)
@@ -133,7 +142,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Break
 - Continue
 
-## Vetores e Matrizes (01:44:58)
+</details>
+<details>
+<summary>Vetores e Matrizes (01:44:58)</summary>
+
 ### [Aula 19](https://www.youtube.com/watch?v=HxRb5KLofcI)
 - Vetores/Arrays
     - [Exercícios aula 19](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-19)
@@ -159,7 +171,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
         - [Correção exercícios aula 20 3/4](https://www.youtube.com/watch?v=zaD6mQj11ew)
         - [Correção exercícios aula 20 4/4](https://www.youtube.com/watch?v=9h9OfzW9u9M)
 
-## For each e Debug de aplicações Java (00:51:19)
+
+</details>
+<details>
+<summary>For each e Debug de aplicações Java (00:51:19)</summary>
 
 ### [Aula 21](https://youtu.be/2ndBbnsqBXQ)
 - Loop For Each
@@ -170,7 +185,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ### [Aula 23](https://youtu.be/qlMJytCpKJg)
 - Debug no Netbeans
 
-## Orientação à Objetos e Java (04:07:34)
+</details>
+<details>
+<summary>Orientação à Objetos e Java (04:07:34)</summary>
+
 ### [Aula 24](https://youtu.be/Gq1BS63pkRA)
 - Conceitos classe, objetos, atributos
     - Uma classe é uma definição de uma entidade de um objeto, onde seus atributos são suas características.
@@ -245,7 +263,11 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Correção exercícios aula 36 parte 1](https://www.youtube.com/watch?v=5-dQS7QuwcY)
     - [Correção exercícios aula 36 parte 2](https://www.youtube.com/watch?v=ML32UfX43Pw)
 
-## OO: Herança, Interfaces e Polimorfismo (02:58:20)
+
+</details>
+<details>
+<summary>OO: Herança, Interfaces e Polimorfismo (02:58:20)</summary>
+
 ### [Aula 37](https://www.youtube.com/watch?v=MOXLCjL4Ik4)
 - Herança
 
@@ -276,3 +298,6 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Classe Object
     - sobrescrita do método toString
     - sobrescrita do método equals
+
+
+    </details>
