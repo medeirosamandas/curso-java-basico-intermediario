@@ -261,3 +261,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 
 ### [Aula 40](https://www.youtube.com/watch?v=pMPlngyWHLM)
 - Herança e Polimorfismo: sobrecarga de métodos
+
+### [Aula 41](https://www.youtube.com/watch?v=Oibb-17nD14)
+- Classes abstratas
+    - quando é adicionado 'abstract' a uma classe, ela não poderá ser instanciada, apenas será instanciada as suas descendentes.
+    - ao adicionar 'absctract' a um método, todos as subclasses deverão obrigatoriamente implementar este método.
