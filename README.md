@@ -244,3 +244,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Exercícios aula 36](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-36)
     - [Correção exercícios aula 36 parte 1](https://www.youtube.com/watch?v=5-dQS7QuwcY)
     - [Correção exercícios aula 36 parte 2](https://www.youtube.com/watch?v=ML32UfX43Pw)
+
+## OO: Herança, Interfaces e Polimorfismo (02:58:20)
+### [Aula 37](https://www.youtube.com/watch?v=MOXLCjL4Ik4)
+- Herança
