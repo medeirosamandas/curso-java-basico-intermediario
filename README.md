@@ -248,3 +248,6 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ## OO: Herança, Interfaces e Polimorfismo (02:58:20)
 ### [Aula 37](https://www.youtube.com/watch?v=MOXLCjL4Ik4)
 - Herança
+
+### [Aula 38](https://www.youtube.com/watch?v=aRPal-8z4RQ)
+- Palavra chave super
