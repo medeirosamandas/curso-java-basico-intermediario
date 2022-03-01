@@ -271,3 +271,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Palavra chave final
     - Faz com que a classe não possa ser extendida
     - Ao ser usado em variável, a torna imutável
+
+### [Aula 43](https://www.youtube.com/watch?v=dAGvL88bO9o)
+- Classe Object
+    - sobrescrita do método toString
+    - sobrescrita do método equals
