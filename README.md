@@ -309,4 +309,11 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - Uma classe pode implementar diversas interfaces
     - Todo atributo declarado dentro de uma interface é público, estático e final
 
+### [Aula 45](https://www.youtube.com/watch?v=POEf8DKZWds)
+- Casting (conversão) 
+    - upcasting -> transformando uma classe menor em um tipo de uma classe maior
+        - geralmente é automático
+        - não há necessidade de fazer manual, porém upcasting manual é permitido
+    - downcasting -> transforma o objeto de uma superclasse em uma subclasse
+- instanceOf    
     </details>
