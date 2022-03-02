@@ -303,4 +303,10 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Correção exercícios aula 43 parte 1](https://www.youtube.com/watch?v=ZSyCf11JJOM)
     - [Correção exercícios aula 43 parte 1](https://www.youtube.com/watch?v=M631ZCkX-Dg)
 
+### [Aula 44](https://www.youtube.com/watch?v=6uLLfRNgRA4)
+- Interfaces
+    - Uma classe abstrata que apenas contém métodos abstratos
+    - Uma classe pode implementar diversas interfaces
+    - Todo atributo declarado dentro de uma interface é público, estático e final
+
     </details>
