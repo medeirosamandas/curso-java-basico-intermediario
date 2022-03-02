@@ -5,7 +5,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - [Playlist do Curso no Youtube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 - [loiane.training](http://loiane.training)
 
-# Conteúdos
+## Conteúdos
 <details>
 <summary>Introdução (01:48:01)</summary>
 
@@ -298,6 +298,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Classe Object
     - sobrescrita do método toString
     - sobrescrita do método equals
-
+    - [Exercícios aulas 36 a 43](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-36)
+    - [Correção exercícios aula 43 parte 1](https://www.youtube.com/watch?v=Ghp5pmbxDTU)
+    - [Correção exercícios aula 43 parte 1](https://www.youtube.com/watch?v=ZSyCf11JJOM)
+    - [Correção exercícios aula 43 parte 1](https://www.youtube.com/watch?v=M631ZCkX-Dg)
 
     </details>
