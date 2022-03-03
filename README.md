@@ -337,5 +337,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - variáveis podem ser declaradas como ```public static final``` se necessário, as não é obrigtório
     - classes abstratas podem ter construtores
     - métodos não abstratos podem ser estáticos (```static```)
+    - [Exercícios aulas 44 a 46](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-44-a-46)
+    - [Correção exercícios aula 46 parte 1](https://www.youtube.com/watch?v=3hZCLp0g1TE)
+    - [Correção exercícios aula 46 parte 2](https://www.youtube.com/watch?v=2M1qOF24HMA)
+    - [Correção exercícios aula 46 parte 3](https://www.youtube.com/watch?v=mLHT8GxG0Sw)
 
    </details>
