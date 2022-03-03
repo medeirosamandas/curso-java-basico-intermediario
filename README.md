@@ -315,5 +315,27 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
         - geralmente é automático
         - não há necessidade de fazer manual, porém upcasting manual é permitido
     - downcasting -> transforma o objeto de uma superclasse em uma subclasse
-- instanceOf    
-    </details>
+- instanceOf 
+
+
+### [Aula 46](https://www.youtube.com/watch?v=h-R4mWzmRKc)
+- Interface
+    - Herança múltipla permitido; uma interface pode estender várias interfaces
+    - palavra chave ```implements``` é utilizada para implementar uma interface
+    - por padrão todos os métodos são públicos e abstratos (```public abstract```) - não tem necessidade de declarar os mesmos
+    - interfaces não tem implementação
+    - todos os métodos de uma interface precisam ser sobrescritos
+    - todas as variáveis declaradas numa interface são ```public static final```(constantes)
+    - interfaces não tem construtor(es)
+    - métodos não podem ser estáticos (```static```)
+- Classe Abstrata
+    - Herança múltipla não é possível; uma classe só pode estender uma única classe
+    - palavra chave ```extends``` é utilizada para estrender uma classe
+    - métodos podem ter modificadores public e abstract se necessário, e podem utilizar outros modificadores também
+    - podem ter implementação parcial
+    - somente métodos abstratos precisam ser sobrescritos(obrigatório)
+    - variáveis podem ser declaradas como ```public static final``` se necessário, as não é obrigtório
+    - classes abstratas podem ter construtores
+    - métodos não abstratos podem ser estáticos (```static```)
+
+   </details>
