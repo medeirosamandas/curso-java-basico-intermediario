@@ -6,6 +6,8 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 ## Módulo I: Java Básico 
 - [Curso Java Básico](https://loiane.training/curso/java-basico)
 - [Playlist Java Básico no Youtube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- 69 vídeos
+- 23:06:25 horas de conteúdo
 
 <details>
 <summary>Introdução (01:48:01)</summary>
@@ -389,8 +391,32 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 </details>
 <br>
+<hr>
 
 ## Módulo II: Java Intermediário 
 
 - [Curso Java Intermediário](https://loiane.training/curso/java-intermediario)
 - [Playlist Java Básico no Youtube](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)
+- 50 vídeos
+- 08:50:46 horas de conteúdo
+
+<details>
+<summary>Enumeradores (Enum) (00:51:24))</summary>
+</details>
+
+<details>
+<summary>Mais Elementos básicos da linguagem Java (02:21:38)</summary>
+</details>
+
+<details>
+<summary>Programação multi-tarefas: Threads (01:41:48)</summary>
+</details>
+
+<details>
+<summary>Trabalhando com Strings (01:18:53)</summary>
+</details>
+
+<details>
+<summary>Classes Utilitárias (Datas, Locale, Math) (02:37:03)</summary>
+</details>
+
