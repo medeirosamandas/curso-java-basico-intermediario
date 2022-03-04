@@ -1,11 +1,12 @@
-# Curso Java Básico <img alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane)
+# Curso Java <img alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+Códigos e anotações minhas referente aos cursos de Java desenvolvido e disponibilizado pela [@Loiane Groner](https://github.com/loiane)
 
-- [Código Fonte do Curso](https://github.com/loiane/curso-java-basico)
-- [Playlist do Curso no Youtube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
-- [loiane.training](http://loiane.training)
+<br>
 
-## Conteúdos
+## Módulo I: Java Básico 
+- [Curso Java Básico](https://loiane.training/curso/java-basico)
+- [Playlist Java Básico no Youtube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+
 <details>
 <summary>Introdução (01:48:01)</summary>
 
@@ -387,3 +388,9 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Correção exercícios aula 52](https://www.youtube.com/watch?v=tc48uwR9Qto)
 
 </details>
+<br>
+
+## Módulo II: Java Intermediário 
+
+- [Curso Java Intermediário](https://loiane.training/curso/java-intermediario)
+- [Playlist Java Básico no Youtube](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)
