@@ -358,4 +358,30 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 ### [Aula 49](https://www.youtube.com/watch?v=Xb9rK6L4GYA)
 - Exceptions: 
     - finally
+
+### [Aula 50](https://www.youtube.com/watch?v=CW7DER5TqLM)
+- Exceptions: 
+    - stacktrace
+    - throws
+    - classe Throwable
+        - getMessage()
+        - printStackTrace
+    - Erro: resulta na finalização do programa
+    - Exception: possível tratar o erro e continuar execução do programa
+
+### [Aula 51](https://www.youtube.com/watch?v=5R8pw1V2H-g)
+- Exceptions: 
+    - tipos de erros no Java
+    - Erro: acontece em tempo de execução, resulta na finalização do programa, não tem tratamento.
+        - exemplo OutOfMemoryError: acabou a memória, não tem como tratar.
+    - Exception: possível tratar o erro e continuar execução do programa
+        - checked (verificada)
+            - IOException: podem ocorrer na leitura e abertura de arquivo
+            - SQLException: relacionados a banco de dados
+        - unchecked (não verificada) - acontecem em tempo de execução do programa (runtime exception)
+            - ArrayIndexOutOfBoundsException: quando tentamos acessar um índice do array que não está disponível
+            - NullPointerException: por exemplo, chamar um método de uma variável que não foi iniciada ainda.
+            - ArithmeticException: como por exemplo dividir número por 0
+            - ClassCastException: vimos erros assim nas aulas de casting
+
 </details>
