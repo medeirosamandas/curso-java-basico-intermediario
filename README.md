@@ -343,3 +343,11 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
     - [Correção exercícios aula 46 parte 3](https://www.youtube.com/watch?v=mLHT8GxG0Sw)
 
    </details>
+<details>
+<summary>Tratamento de erros e exceções (01:49:35)</summary>
+
+### [Aula 47](https://www.youtube.com/watch?v=ld2C4GcAtsg)
+- Exceptions: 
+    - try
+    - catch
+</details>
