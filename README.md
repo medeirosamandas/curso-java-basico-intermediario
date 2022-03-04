@@ -350,4 +350,8 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
 - Exceptions: 
     - try
     - catch
+
+### [Aula 48](https://www.youtube.com/watch?v=G8-fhwpHdFU)
+- Exceptions: 
+    - múltiplos catch
 </details>
