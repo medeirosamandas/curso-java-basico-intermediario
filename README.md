@@ -406,6 +406,17 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 ### [Aula 53](https://www.youtube.com/watch?v=EdEKx24xHGc)
 - Enumeradores (Enum)
 
+### [Aula 54](https://www.youtube.com/watch?v=eTtArKB24pc)
+- Enumeradores como classe
+    - construtor
+    - métodos
+    - Enums extends a classe java.lang.Enum
+    - Podem ser comparados usando ==
+    - Não podem ser instanciadas com ```new```
+    - Podem implementar interfaces
+    - Não existe herança em enum
+    - Pode ser declarado separadamente ou dentro de classe
+
 </details>
 
 <details>
