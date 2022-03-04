@@ -402,6 +402,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 <details>
 <summary>Enumeradores (Enum) (00:51:24))</summary>
+
+### [Aula 53](https://www.youtube.com/watch?v=EdEKx24xHGc)
+- Enumeradores (Enum)
+
 </details>
 
 <details>
