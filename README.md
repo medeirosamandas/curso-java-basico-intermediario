@@ -383,5 +383,7 @@ Curso de Java básico ministrado pela [@Loiane Groner](https://github.com/loiane
             - NullPointerException: por exemplo, chamar um método de uma variável que não foi iniciada ainda.
             - ArithmeticException: como por exemplo dividir número por 0
             - ClassCastException: vimos erros assim nas aulas de casting
+    - [Exercícios aulas 47 a 52](https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-47-a-52)
+    - [Correção exercícios aula 52](https://www.youtube.com/watch?v=tc48uwR9Qto)
 
 </details>
