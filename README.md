@@ -420,6 +420,9 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 ### [Aula 55](https://www.youtube.com/watch?v=hdF8IkkOZcw)
 - value
 - valueOf
+
+### [Aula 56](https://www.youtube.com/watch?v=sfc4-IZj744)
+- métodos abstratos
 </details>
 
 <details>
