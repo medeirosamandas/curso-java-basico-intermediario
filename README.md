@@ -423,6 +423,7 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 ### [Aula 56](https://www.youtube.com/watch?v=sfc4-IZj744)
 - métodos abstratos
+    - [Exercício Aula 56](https://www.youtube.com/watch?v=fc6ctPYRS4g)
 </details>
 
 <details>
