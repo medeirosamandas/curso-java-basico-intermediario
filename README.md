@@ -428,6 +428,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 <details>
 <summary>Mais Elementos básicos da linguagem Java (02:21:38)</summary>
+
+### [Aula 57](https://www.youtube.com/watch?v=U0dcVFvJIhk)
+- Wrappers
+    - classes de tipo primitivo
 </details>
 
 <details>
