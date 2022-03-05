@@ -417,6 +417,9 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
     - Não existe herança em enum
     - Pode ser declarado separadamente ou dentro de classe
 
+### [Aula 55](https://www.youtube.com/watch?v=hdF8IkkOZcw)
+- value
+- valueOf
 </details>
 
 <details>
