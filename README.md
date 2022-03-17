@@ -543,6 +543,15 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
   - anônimas
     - Collections (comparar objetos, entre outros )
 
+### [Aula 65](https://www.youtube.com/watch?v=6M8EE_oRwtM)
+
+- Annotations (anotações)
+  - Recurso que permite embutir informações complementares no código fonte
+    - Informações para o compilador
+    - Runtime(tempo de execução)
+    - Compile ou Deploy-time (tempo de compilação ou deploy-web)
+    - Ex.: `@Override, @Inherited, @Deprecated, @SupressWarnings`
+
 </details>
 
 <details>
