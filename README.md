@@ -520,6 +520,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 - Escopo de Variáveis
 
+### [Aula 61](https://www.youtube.com/watch?v=B2w7bESRZNU)
+
+- Passagem de parâmetros por valor e por referência
+
 </details>
 
 <details>
