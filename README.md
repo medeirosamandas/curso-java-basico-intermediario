@@ -532,6 +532,17 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 - printf
 
+### [Aula 63](https://www.youtube.com/watch?v=OQKV3dCKzSI)
+
+- Classes aninhadas
+  - internas
+    - classes que serão utilizadas somente dentro da classe "externa"
+    - Hibernate/JPA (chave primária composta)
+  - locais
+    - Swing (actions)
+  - anônimas
+    - Collections (comparar objetos, entre outros)
+
 </details>
 
 <details>
