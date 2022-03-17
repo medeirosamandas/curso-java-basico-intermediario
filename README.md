@@ -512,6 +512,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 - Autoboxing
 - Unboxing
 
+### [Aula 59](https://www.youtube.com/watch?v=S2j0EWufOeI)
+
+- Importação estática (static import)
+
 </details>
 
 <details>
