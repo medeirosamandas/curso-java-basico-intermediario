@@ -516,6 +516,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 - Importação estática (static import)
 
+### [Aula 60](https://www.youtube.com/watch?v=nZOJ5XxPu2o)
+
+- Escopo de Variáveis
+
 </details>
 
 <details>
