@@ -541,7 +541,7 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
   - locais
     - Swing (actions)
   - anônimas
-    - Collections (comparar objetos, entre outros)
+    - Collections (comparar objetos, entre outros )
 
 </details>
 
