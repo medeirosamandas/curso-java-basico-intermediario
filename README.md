@@ -552,6 +552,10 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
     - Compile ou Deploy-time (tempo de compilação ou deploy-web)
     - Ex.: `@Override, @Inherited, @Deprecated, @SupressWarnings`
 
+### [Aula 66](https://www.youtube.com/watch?v=_11TPkgZARk)
+
+- Garbage Collector (Coletor de Lixo)
+
 </details>
 
 <details>
