@@ -2,7 +2,7 @@ package com.amanda.cursojavaintermediario.aula66;
 
 import com.amanda.cursojavaintermediario.aula61.Contato;
 
-public class ColetorLIxo {
+public class ColetorLixo {
     public static void obterMemoriaUsada(){
         final int MB = 1024 * 1024;
         Runtime runtime = Runtime.getRuntime(); //singleton
