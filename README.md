@@ -560,6 +560,19 @@ Códigos e anotações minhas referente aos cursos de Java desenvolvido e dispon
 
 <details>
 <summary>Programação multi-tarefas: Threads (01:41:48)</summary>
+
+### [Aula 67](https://www.youtube.com/watch?v=v5l30QMKv6c)
+
+- Criando Threads
+
+  - métodos start
+  - run
+  - sleep
+
+  - Multitarefas: processos e threads
+    - processo é um programa que está sendo executado
+    - thread é a menor unidade de código que pode ser executada
+
 </details>
 
 <details>
